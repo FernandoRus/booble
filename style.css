@@ -1,0 +1,119 @@
+body {
+    font-family: "Helvetica Neue" , Helvetica , Arial , sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.imagen {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block1 {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title1 {
+    color: #555;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400px;
+
+}
+
+.block2 {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title2 {
+    font-size: 14px;
+    text-align: center;
+    }
+
+.box {
+    background-color: #f7f7f7;
+    width: 280px;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border-left: 1px solid #DCDCDC;
+    border-right: 1px solid #DCDCDC;
+    border-bottom: 2px solid #DCDCDC;
+    padding: 30px;
+}
+
+.image2 {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.blocktext {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    height: 30px;
+    width: 240px;
+    background-color: #ffffbf;
+    border-color:F5F5F5;
+    border-radius: 2px;
+}
+
+.intro {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    height: 30px;
+    width: 240px;
+    color: white;
+    background-color: #2E9AFE;
+    border: solid;
+    border-radius: 4px;
+    border-color: #2E9AFE;
+}
+
+.help {
+    color: #2E9AFE;
+    font-size: 12px;
+    margin-top: 20px;
+    position: relative;
+    left: 200px;
+}
+
+.newaccount {
+    text-align: center;
+    color: #2E9AFE;
+    font-size: 12px;
+    margin-top: 25px;
+}
+
+.everythingoogle {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 25px;
+}
+
+.iconos {
+   display: flex;
+   justify-content : center;
+   margin-top: 10px;
+}
